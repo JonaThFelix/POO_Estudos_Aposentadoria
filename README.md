@@ -1,2 +1,6 @@
-# POO_Estudos_Aposentadoria
-Estudos de POO para cálculos simples de aposentadoria
+#POO Estudos de aposentadoria
+
+Estudos para reforçar conceitos simples de POO usando python.
+
+#Estudo Independente.
+
